@@ -1,0 +1,44 @@
+
+[
+    {
+        "name" : "Onix",
+        "year" : "2010",
+        "price": "R$ 15.000,00",
+        "brand": "chevrolet",
+        "image": "https://via.placeholder.com/300x200",
+        "km": "652.000"
+    
+    },
+    {
+        "name" : "Marea",
+        "year" : "2005",
+        "price": "R$ 50.000,00",
+        "brand": "Fiat",
+        "image": "https://via.placeholder.com/300x200",
+        "km": "1.000.000"
+    },
+    {
+        "name" : "Up",
+        "year" : "2020",
+        "price": "R$ 80.000,00",
+        "brand": "Volksvagem",
+        "image": "https://via.placeholder.com/300x200",
+        "km": "500.000"
+    },
+    {
+        "name" : "celta",
+        "year" : "2004",
+        "price": "R$ 20.000,00",
+        "brand": "Fiat",
+        "image": "https://via.placeholder.com/300x200",
+        "km": "2.000.000"
+    },
+    {
+        "name" : "santana",
+        "year" : "1998",
+        "price": "R$ 30.000,00",
+        "brand": "Volksvagem",
+        "image": "https://via.placeholder.com/300x200",
+        "km": "1.000.000"
+    }
+]
